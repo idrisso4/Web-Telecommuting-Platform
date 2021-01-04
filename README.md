@@ -7,9 +7,6 @@ A web-based telecommuting platform that provides: user management, project manag
 
 Demo: https://drive.google.com/file/d/1gCBGNqQKKpf6cQoLh01rrYortWDel929/view?usp=sharing
 
-![](0.jpg)
-
-![](00.jpg)
 
 ![](2.JPG)
 
