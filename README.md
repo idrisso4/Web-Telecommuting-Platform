@@ -12,10 +12,6 @@ Demo: https://drive.google.com/file/d/1gCBGNqQKKpf6cQoLh01rrYortWDel929/view?usp
 
 ![](3.JPG)
 
-![](4.JPG)
-
 ![](6.JPG)
 
-![](9.JPG)
-
-![](14.jpg)
+![](4.JPG)
